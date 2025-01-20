@@ -1,5 +1,7 @@
 # Particle swarm optimization on test functions with Manim
 
+[View Code →](https://github.com/eni-1/pso-test-functions-manim/blob/main/manimpso.py)
+
 ### Rosenbrock Function:
 https://github.com/user-attachments/assets/15bc34c1-ca04-4500-833c-c6eceef128b4
 
